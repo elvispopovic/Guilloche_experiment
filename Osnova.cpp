@@ -246,15 +246,15 @@ void Osnova::CrtajStazu(wxGraphicsContext *gc, wxRealPoint points[], int numPoin
 {
     int i,j,st;
     wxCoord koordinate;
-    wxRealPoint *interpolirano, *normale;
+    wxRealPoint *interpolirano, *tangente;
     wxPoint *interpolirano2;
     wxPen pero(colors[0],1);
     interpolirano = new wxRealPoint[numPoints*podjela];
     interpolirano2= new wxPoint[podjela+1];
 
-    normale = new wxRealPoint[numPoints];
+    tangente = new wxRealPoint[numPoints];
 
-    KardinalniSpline(points,numPoints,interpolirano,podjela,tenzija, normale);
+    KardinalniSpline(points,numPoints,interpolirano,podjela,tenzija, tangente);
 
     if(svgDC==NULL)
         for(j=0,st=0; j<numPoints; j++,st+=podjela)
@@ -278,7 +278,7 @@ void Osnova::CrtajStazu(wxGraphicsContext *gc, wxRealPoint points[], int numPoin
                 for(i=0; i<podjela-1; i++)
                     svgDC->DrawLine(100.0*interpolirano[st+i].x,100.0*interpolirano[st+i].y,100.0*interpolirano[st+i+1].x,100.0*interpolirano[st+i+1].y);
         }
-    delete[] normale;
+    delete[] tangente;
     delete[] interpolirano2;
     delete[] interpolirano;
 }

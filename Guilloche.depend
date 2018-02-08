@@ -88,3 +88,52 @@
 	<iostream>
 	"Prozor.h"
 
+1517481793 source:d:\foi\sigurnost is\git\guilloche_experiment\prozor.cpp
+	"Prozor.h"
+
+1517474006 d:\foi\sigurnost is\git\guilloche_experiment\prozor.h
+	<wx/graphics.h>
+	<wx/dcclient.h>
+	<wx/dcgraph.h>
+	<wx/dcbuffer.h>
+	<wx/stdpaths.h>
+	"Interfaces.h"
+	"wx/wx.h"
+	"wxProzor.h"
+
+1517474499 d:\foi\sigurnost is\git\guilloche_experiment\interfaces.h
+	<wx/dcsvg.h>
+	<windows.h>
+
+1516943465 d:\foi\sigurnost is\git\guilloche_experiment\wxprozor.h
+	<wx/artprov.h>
+	<wx/xrc/xmlres.h>
+	<wx/string.h>
+	<wx/stattext.h>
+	<wx/gdicmn.h>
+	<wx/font.h>
+	<wx/colour.h>
+	<wx/settings.h>
+	<wx/textctrl.h>
+	<wx/statline.h>
+	<wx/button.h>
+	<wx/sizer.h>
+	<wx/panel.h>
+	<wx/radiobox.h>
+	<wx/statbox.h>
+	<wx/checkbox.h>
+	<wx/scrolwin.h>
+	<wx/frame.h>
+
+1517466737 source:d:\foi\sigurnost is\git\guilloche_experiment\wxprozor.cpp
+	"wxProzor.h"
+
+1517905880 source:d:\foi\sigurnost is\git\guilloche_experiment\osnova.cpp
+	"Osnova.h"
+
+1517475058 d:\foi\sigurnost is\git\guilloche_experiment\osnova.h
+	<wx/wxprec.h>
+	<wx/wx.h>
+	<iostream>
+	"Prozor.h"
+
