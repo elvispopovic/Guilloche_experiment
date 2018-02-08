@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1516943511 source:d:\foi\sisprojekt\projekt\prozor.cpp
+	"Prozor.h"
+
+1516860554 d:\foi\sisprojekt\projekt\prozor.h
+	<wx/graphics.h>
+	<wx/dcclient.h>
+	<wx/dcgraph.h>
+	<wx/dcbuffer.h>
+	<wx/stdpaths.h>
+	"Interfaces.h"
+	"wx/wx.h"
+	"wxProzor.h"
+
+1516241359 d:\foi\sisprojekt\projekt\interfaces.h
+	<windows.h>
+	<gdiplus.h>
+
+1516943465 d:\foi\sisprojekt\projekt\wxprozor.h
+	<wx/artprov.h>
+	<wx/xrc/xmlres.h>
+	<wx/string.h>
+	<wx/stattext.h>
+	<wx/gdicmn.h>
+	<wx/font.h>
+	<wx/colour.h>
+	<wx/settings.h>
+	<wx/textctrl.h>
+	<wx/statline.h>
+	<wx/button.h>
+	<wx/sizer.h>
+	<wx/panel.h>
+	<wx/radiobox.h>
+	<wx/statbox.h>
+	<wx/checkbox.h>
+	<wx/scrolwin.h>
+	<wx/frame.h>
+
+1516946489 source:d:\foi\sisprojekt\projekt\wxprozor.cpp
+	"wxProzor.h"
+
+1517481793 source:d:\foi\sisprojekt\projekt2\prozor.cpp
+	"Prozor.h"
+
+1517474006 d:\foi\sisprojekt\projekt2\prozor.h
+	<wx/graphics.h>
+	<wx/dcclient.h>
+	<wx/dcgraph.h>
+	<wx/dcbuffer.h>
+	<wx/stdpaths.h>
+	"Interfaces.h"
+	"wx/wx.h"
+	"wxProzor.h"
+
+1517474499 d:\foi\sisprojekt\projekt2\interfaces.h
+	<wx/dcsvg.h>
+	<windows.h>
+
+1516943465 d:\foi\sisprojekt\projekt2\wxprozor.h
+	<wx/artprov.h>
+	<wx/xrc/xmlres.h>
+	<wx/string.h>
+	<wx/stattext.h>
+	<wx/gdicmn.h>
+	<wx/font.h>
+	<wx/colour.h>
+	<wx/settings.h>
+	<wx/textctrl.h>
+	<wx/statline.h>
+	<wx/button.h>
+	<wx/sizer.h>
+	<wx/panel.h>
+	<wx/radiobox.h>
+	<wx/statbox.h>
+	<wx/checkbox.h>
+	<wx/scrolwin.h>
+	<wx/frame.h>
+
+1517466737 source:d:\foi\sisprojekt\projekt2\wxprozor.cpp
+	"wxProzor.h"
+
+1517481820 source:d:\foi\sisprojekt\projekt2\osnova.cpp
+	"Osnova.h"
+
+1517475058 d:\foi\sisprojekt\projekt2\osnova.h
+	<wx/wxprec.h>
+	<wx/wx.h>
+	<iostream>
+	"Prozor.h"
+

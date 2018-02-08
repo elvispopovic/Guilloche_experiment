@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1506900267 source:d:\programiranje\c++\wxwidgets\osnova\prozor.cpp
+	"Prozor.h"
+
+1506900008 d:\programiranje\c++\wxwidgets\osnova\prozor.h
+	"wxProzor.h"
+
+1506895488 d:\programiranje\c++\wxwidgets\osnova\wxprozor.h
+	<wx/artprov.h>
+	<wx/xrc/xmlres.h>
+	<wx/string.h>
+	<wx/frame.h>
+	<wx/gdicmn.h>
+	<wx/font.h>
+	<wx/colour.h>
+	<wx/settings.h>
+
+1506895217 source:d:\programiranje\c++\wxwidgets\osnova\vjezba.cpp
+	"vjezba.h"
+
+1506895607 d:\programiranje\c++\wxwidgets\osnova\vjezba.h
+	<wx/wxprec.h>
+	<wx/wx.h>
+	<iostream>
+	"Prozor.h"
+
+1506895488 source:d:\programiranje\c++\wxwidgets\osnova\wxprozor.cpp
+	"wxProzor.h"
+
+1506896777 source:d:\programiranje\c++\wxwidgets\osnova\osnova.cpp
+	"Osnova.h"
+
+1506896683 d:\programiranje\c++\wxwidgets\osnova\osnova.h
+	<wx/wxprec.h>
+	<wx/wx.h>
+	<iostream>
+	"Prozor.h"
+
+1516858006 source:d:\foi\sisprojekt\projekt\osnova.cpp
+	"Osnova.h"
+
+1516236759 d:\foi\sisprojekt\projekt\osnova.h
+	<wx/wxprec.h>
+	<wx/wx.h>
+	<iostream>
+	"Prozor.h"
+
+1516860554 d:\foi\sisprojekt\projekt\prozor.h
+	<wx/graphics.h>
+	<wx/dcclient.h>
+	<wx/dcgraph.h>
+	<wx/dcbuffer.h>
+	<wx/stdpaths.h>
+	"Interfaces.h"
+	"wx/wx.h"
+	"wxProzor.h"
+
+1516943465 d:\foi\sisprojekt\projekt\wxprozor.h
+	<wx/artprov.h>
+	<wx/xrc/xmlres.h>
+	<wx/string.h>
+	<wx/stattext.h>
+	<wx/gdicmn.h>
+	<wx/font.h>
+	<wx/colour.h>
+	<wx/settings.h>
+	<wx/textctrl.h>
+	<wx/statline.h>
+	<wx/button.h>
+	<wx/sizer.h>
+	<wx/panel.h>
+	<wx/radiobox.h>
+	<wx/statbox.h>
+	<wx/checkbox.h>
+	<wx/scrolwin.h>
+	<wx/frame.h>
+
+1516943511 source:d:\foi\sisprojekt\projekt\prozor.cpp
+	"Prozor.h"
+
+1516946489 source:d:\foi\sisprojekt\projekt\wxprozor.cpp
+	"wxProzor.h"
+
+1516241359 d:\foi\sisprojekt\projekt\interfaces.h
+	<windows.h>
+	<gdiplus.h>
+
